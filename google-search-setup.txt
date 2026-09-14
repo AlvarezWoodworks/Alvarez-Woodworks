@@ -1,0 +1,17 @@
+ALVAREZ WOODWORKS — PUBLIC WEBSITE SETUP
+
+Recommended route:
+1. Publish the website with GitHub Pages.
+2. Use the free github.io address first, or connect a custom domain such as a domain you purchase for Alvarez Woodworks.
+3. After the site is live, open Google Search Console and add the exact website URL.
+4. Verify ownership using one of Google's offered verification methods.
+5. Submit https://YOUR-DOMAIN.com/sitemap.xml.
+6. Request indexing for the homepage.
+
+Important:
+- Replace YOUR-DOMAIN.com in robots.txt and sitemap.xml with the final domain.
+- Do not put payment secret keys in the website files.
+- The current shop uses an email-based order request. Real card payments require a secure payment-provider checkout endpoint.
+
+GitHub Pages documentation:
+https://docs.github.com/en/pages

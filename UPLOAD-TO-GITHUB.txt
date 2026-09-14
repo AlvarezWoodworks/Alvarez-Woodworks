@@ -1,0 +1,1 @@
+Select all files in this folder and upload them to the ROOT of your GitHub repository. You do NOT need to create or upload an assets folder.
